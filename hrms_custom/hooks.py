@@ -2,7 +2,7 @@ app_name = "hrms_custom"
 app_title = "HRMS Custom"
 app_publisher = "Abhijeet Shakya"
 app_description = "HR and payroll customisations on top of HRMS"
-app_email = "abhijeet.shakya@infinitelocus.com"
+app_email = "abhi22jeetu@gmail.com"
 app_license = "gpl-3.0"
 
 required_apps = ["hrms"]
